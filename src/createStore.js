@@ -1,5 +1,5 @@
-import candyReducer from '../src/reducers/candyReducer';
-import countReducer from '../src/reducers/countReducer';
+// import candyReducer from '../src/reducers/candyReducer';
+// import countReducer from '../src/reducers/countReducer';
 
 export default function createStore(reducer) {
   // add your code here
